@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Portfolio</title>
+    <link>https://example.com/blog/</link>
+    <description>Recent content in Blog on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Docker</title>
+      <link>https://example.com/blog/first-blog/</link>
+      <pubDate>Thu, 31 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://example.com/blog/first-blog/</guid>
+      <description>Understanding Docker This series will involve exercises to practice and learn docker. But, before that let&amp;rsquo;s dive in a little and understand Docker by answering a few Wh-questions related to it.
+What is Docker? Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Docker combines all the dependencies into a container allowing it to run independently of the environment. 
+To understand how docker works, let us take an example of frozen food.</description>
+    </item>
+    
+  </channel>
+</rss>
