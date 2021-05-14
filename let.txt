@@ -1,0 +1,9 @@
+func tect(node *head){
+    hjtrfdcvbn
+}
+
+main(){
+head<-address;
+tect(head); // tect(&head)
+tect(head);
+}
